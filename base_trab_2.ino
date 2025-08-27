@@ -37,7 +37,7 @@ int somaBit(int b1a, int b2a, int cBit)
 {
 	int bitResult = 0;
 	int aux1, aux2 = 0;
-	if (1)
+	if (((b1a ^ b2a) ^ cBit))
 	{
 		bitResult = 1;
 	}
@@ -51,7 +51,8 @@ int somaBit(int b1a, int b2a, int cBit)
 int somaCarryBit(int b1a, int b2a, int cBit)
 {
 	int aux1, aux2 = 0;
-	if (1)
+	if (((b1a && b2a))||(b1a && cBit))||(b2a && cBit))
+)
 	{
 		cBit = 1;
 	}
@@ -95,5 +96,6 @@ void loop()
 	digitalWrite(11,res1d);
 	digitalWrite(12,carryBit); // Displays the final carry bit
 }
+
 
 
