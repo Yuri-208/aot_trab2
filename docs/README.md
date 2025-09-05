@@ -11,7 +11,6 @@ Este projeto simula um sistema digital embarcado utilizando o microcontrolador A
 - Exibição de resultados em LEDs (pinos 8 a 12)
 - Implementação da lógica de somador completo
 - Comentários explicativos em inglês no código
-- Documentação bilíngue (PT/EN)
 - Licença MIT aplicada
 
 ## Componentes Simulados
