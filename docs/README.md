@@ -44,6 +44,6 @@ A simulação é realizada com o software UnoArduSim. Os arquivos necessários e
 - [Documentação oficial do Arduino](https://docs.arduino.cc/learn/starting-guide/getting-started-arduino/)
 - [Simulador UnoArduSim](https://sites.google.com/site/unoardusim/home?authuser=0)
 
-## 📜 Licença
+## Licença
 
 Este projeto está licenciado sob os termos da [Licença MIT](LICENSE).
