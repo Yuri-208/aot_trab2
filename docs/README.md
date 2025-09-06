@@ -47,3 +47,4 @@ A simulação é realizada com o software UnoArduSim. Os arquivos necessários e
 ## Licença
 
 Este projeto está licenciado sob os termos da [Licença MIT](LICENSE).
+
