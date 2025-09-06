@@ -48,3 +48,6 @@ A simulação é realizada com o software UnoArduSim. Os arquivos necessários e
 
 Este projeto está licenciado sob os termos da [Licença MIT](LICENSE).
 
+## Imagem
+
+![IMAGEM NAO ENCONTRADA](https://lh5.googleusercontent.com/Q8TYQKQH6QdMsdCYSIYFNaICSYOBQOWT73wuJIarad69a1LUcDaMNcKojqrHQxLVYyNYb4D1jrclOEqHEoQUiN0w00J4-jq19W6zuvM2EuOP6yJTnlexquk1q2rbYbZ0Rh8JaSXRoFhtHJZq2627alJZK70usgLP3xgF65VjyBtn_05B9lcHK8V11l1oYQ "Arduino")
